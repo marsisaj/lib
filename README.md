@@ -6,3 +6,4 @@ Here's [feedback](feedback.md) I've already received, and notes I've made based 
 
 My present aim is to get enough content in a sufficient state to submit to [this conference](https://law.unimelb.edu.au/digital-citizens/conference) - deadline for paper proposals is 16 December 2018. Please help!
 
+I'm intending to write for a general audience without sacrificing either technical accuracy or academic rigour.
