@@ -10,7 +10,7 @@ Mill's view has had critical developments since its original publication in 1859
 
 For now, here's my general hypothesis.
 
-When we make laws, we are shaping the social, economic and cultural possibilities for the future. It's a complex technology that can easily do more harm than good. Law (and its minion, policy) gets up in people's business, and often displaces informal or traditional strategies, both personal and social. 
+When we make laws, we are shaping the social, economic and cultural possibilities for the future. It's a complex technology that can easily do more harm than good. Law gets up in people's business, and often displaces informal or traditional strategies, both personal and social. 
 
 The law enters our collective conciousness with a plush cloak of moral authority, whether it deserves it or not. Almost without realising it, a new criminal offence which is initially rejected by a community can become first tacitly accepted and then taken to be a self-evident outrage (e.g. drinking alcohol in public). We write laws, but they also write us.
 
