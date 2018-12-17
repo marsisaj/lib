@@ -15,7 +15,7 @@ _My notes_
 + Explore more crimes that are no longer crimes
 + Golem Genie good, also makes me think of the Veil of Ignorance, different context tho
 
-#### 26-11-18
+#### 26-Nov-18
 
 Chatted w/ L
 
