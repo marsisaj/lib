@@ -1,0 +1,5 @@
+Paper proposal submitted 16 Dec 2018 for the [Digital Citizens Conference](https://law.unimelb.edu.au/digital-citizens/conference):
+
+**It’s no crime: designing rules for Robocop**
+
+The law we have today developed in an environment where imperfect enforcement and discretion, both judicial and executive, were assumed. At times, a legal net wider than the perceived harm was accepted with the expectation that police would only pursue a charge in the public interest, or the courts would ameliorate any overly harsh effects in how they sentenced, or by using generous (or, more recently, rights-based) interpretations. However both police and the courts have a decreasing discretional scope these days. Contrasting this, there is increased surveillance, data collection and analysis, i.e. the tools of enforcement are increasingly sophisticated and accurate. In this paper I discuss the difficulty of defining the crime with reference to some traffic & minor offences such as cycling without a helmet, unsolicited street art, exploring abandoned buildings and personal use of recreational drugs.
