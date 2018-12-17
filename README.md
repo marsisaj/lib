@@ -4,6 +4,6 @@ To kick off, I've laid down my over-arching concern [here](shadows.md), i.e. wha
 
 Here's [feedback](feedback.md) I've already received, and notes I've made based on this feedback. Further comments most welcome.
 
-My present aim is to get enough content in a sufficient state to submit to [this conference](https://law.unimelb.edu.au/digital-citizens/conference) - deadline for paper proposals is 16 December 2018. Please help!
+Dec-18: I've submitted a [paper proposal](robocop.md) to [this conference](https://law.unimelb.edu.au/digital-citizens/conference) in Melbourne, July 2019. That paper proposal covers some of what I want to explore here.
 
 I'm intending to write for a general audience without sacrificing either technical accuracy or academic rigour.
